@@ -1,1 +1,1 @@
-alert("Hi I am Sanjani")
+console.log("HEY!!")
