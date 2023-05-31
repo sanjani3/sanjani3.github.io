@@ -2,7 +2,7 @@ h2{
     color: rgb(189, 32, 113);
 }
 table, tr, td {
-    border: 1px solid white;
+    border: 2px solid white;
     border-collapse: collapse;
   }
 tr, td {
